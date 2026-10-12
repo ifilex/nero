@@ -1,0 +1,6 @@
+{
+  "name": "Nero Chess MS-DOS",
+  "description": "Emulación retro en HTML5 del clásico juego de ajedrez Nero Chess de MS-DOS con estética pixel art de 16 bits, IA adaptable, multijugador y logros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
